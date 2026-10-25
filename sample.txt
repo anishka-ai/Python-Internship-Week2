@@ -1,0 +1,3 @@
+Hello Python
+Welcome to programming
+This is a text file
