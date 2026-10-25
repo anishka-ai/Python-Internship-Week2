@@ -1,0 +1,6 @@
+{
+    "name": "Harry",
+    "age": 20,
+    "city": "Delhi",
+    "subjects": ["Python", "Java", "C++"]
+}
